@@ -145,13 +145,13 @@ Used to:
 
 Central system controller:
 
-*User authentication
+* User authentication
 
-*Car management
+* Car management
 
-*Reservation processing
+* Reservation processing
 
-*Backup & restore
+* Backup & restore
 
 ##
 
